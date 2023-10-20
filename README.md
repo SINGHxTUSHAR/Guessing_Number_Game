@@ -1,6 +1,6 @@
 # Guessing_Number_Game
 
-### This is just a normal guessing game made for just fun and random guessing.
+### This is just a normal guessing game made for fun and random guessing.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
